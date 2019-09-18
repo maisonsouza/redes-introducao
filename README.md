@@ -1,4 +1,5 @@
 # Curso de Redes parte 1: Introdução, Conceitos e Prática
+![](https://www.alura.com.br/assets/api/share/curso-redes-introducao.png)
 
 
 ## AULA01 A rede com IP, ping e traceroute
