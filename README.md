@@ -12,3 +12,19 @@ O comando traceroute para verificar a rota que meu pacote está passando na rede
 
 ## AULA02 DNS, hubs e as conexões de máquinas
 
+## Cabos de conexão
+
+## Montando nossa rede no programa
+
+## Switches e seus avanços
+
+## Roteadores e a comunicação externa
+
+## Entendendo os endereços IP's
+
+## Endereçamentos IP's com DHCP
+
+## Acessando o site em nossa simulação
+
+
+
